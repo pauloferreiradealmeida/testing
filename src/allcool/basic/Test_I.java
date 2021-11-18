@@ -15,7 +15,7 @@ public class Test_I {
 		System.out.println("Testing...");
 		
 		double x=10, y;
-		//System.out.println[];
+		System.out.println(x + " - " + (y = 5));
 
 		PrintWriter pw = new PrintWriter(System.out);
 		OutputStreamWriter osw = new OutputStreamWriter(System.out);
