@@ -14,7 +14,7 @@ public class Test_I {
 	final static void test() {
 		System.out.println("Testing...");
 		
-		//double x=10, double y;
+		double x=10, y;
 		//System.out.println[];
 
 		PrintWriter pw = new PrintWriter(System.out);
