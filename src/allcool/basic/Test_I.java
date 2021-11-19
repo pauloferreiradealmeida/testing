@@ -12,7 +12,7 @@ public class Test_I {
 	}
 
 	final static void test() {
-		System.out.println("Testing...");
+		System.out.println("Testing... I");
 		
 		double x=10, y;
 		System.out.println(x + " - " + (y = 5));
