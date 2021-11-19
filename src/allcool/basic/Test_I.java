@@ -29,7 +29,7 @@ public class Test_I {
 
 	final public static void main(String[] args) {
 		if (args.length == 0) {
-			System.out.println("n„o vem null " + args);
+			System.out.println("n√£o vem null " + args);
 		}
 		test();
 	}
